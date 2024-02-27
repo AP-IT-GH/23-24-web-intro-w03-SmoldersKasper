@@ -28,5 +28,8 @@
 ## 💡 vragen
 
 - Waarvoor dient het `controls`-attribute?
+Controls toevoegen aan video of audio
 - Waarvoor staat de `source`-element?
+Source aangeven voor video of audio
 - Wanneer gebruik je meerdere `source`-elementen?
+Als redundantie voor browsers die niet compatible zijn met andere video/audio formaten.
