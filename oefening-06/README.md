@@ -1,4 +1,4 @@
-# 💻 03. HTML & Bootstrap > oefening 06
+ # 💻 03. HTML & Bootstrap > oefening 06
 
 ## 🛠️ opdrachten
 
